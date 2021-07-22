@@ -1,0 +1,23 @@
+\\10.10.14.200\강사공유
+
+환경변수
+
+JAVA_HOME
+
+%JAVA_HOME%\bin
+
+echo %JAVA_HOME%
+echo %Path%
+
+javac -version
+java -version
+
+c:\JavaTest
+
+Hello.java
+
+cd 
+cd ..
+cd .
+cd \ 
+cd c:\JavaTest

@@ -1,0 +1,17 @@
+  msvcp140_1.dll 오류
+  해당파일 아래의 경로에 이동
+ c:\windows\sysWOW64
+
+
+python 3.7버전에서 tensorflow 작동
+
+pip 설치
+
+pip install django
+pip install djangorestframework
+pip install pandas
+pip install matplotlib
+pip install tensorflow
+pip install eunjeon
+pip install bs4
+pip install -U finance-datareader

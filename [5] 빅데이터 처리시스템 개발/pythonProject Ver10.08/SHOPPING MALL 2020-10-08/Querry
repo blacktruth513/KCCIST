@@ -1,0 +1,69 @@
+CREATE DATABASE shopping_mall
+USE shopping_mall
+
+DROP TABLE member;
+CREATE TABLE member (
+	m_email	VARCHAR(30) 	PRIMARY KEY,	#회원 이메일
+	m_pw		VARCHAR(50)		NOT NULL,		#회원 비밀번호
+	m_name	VARCHAR(25) 	NOT NULL,		#이름
+	s_tel		INT				NULL,				#연락처
+	order_num INT				NULL				#주문번호
+);
+
+SELECT * FROM member;
+
+CREATE TABLE cart (
+	product	INT 			PRIMARY KEY AUTO_INCREMENT,	#제품번호
+	buyer_email	VARCHAR(30) ,	#회원 이메일
+	p_name	VARCHAR(20)	NOT NULL,		#상품명
+	p_pri		INT			NULL,				#상품가격
+
+	FOREIGN KEY(buyer_email) REFERENCES member(m_email)
+);
+
+INSERT INTO member (m_email,m_pw,m_name,s_tel)
+VALUES('test@test.com','1234','tester',01099990000);
+
+DROP TABLE cart;
+CREATE TABLE cart (
+	product	INT 			PRIMARY KEY AUTO_INCREMENT,	#제품번호
+	ord_num 	INT			NULL,				#주문번호
+	p_name	VARCHAR(20)	NOT NULL,		#상품명
+	p_pri		INT			NULL,				#상품가격
+
+	FOREIGN KEY(ord_num) REFERENCES member(order_num)
+);
+
+DROP TABLE buy;
+CREATE TABLE buy (
+	product	INT 			PRIMARY KEY AUTO_INCREMENT,	#제품번호
+	ord_num 	INT			NULL,				#주문번호
+	p_name	VARCHAR(20)	NOT NULL,		#상품명
+	p_pri		INT			NULL,				#상품가격
+	p_sta		CHAR(5)		NOT NULL DEFAULT. '주문완료',
+
+	FOREIGN KEY(ord_num) REFERENCES member(order_num)
+);
+
+
+
+
+-- 회원 테이블
+CREATE TABLE member (
+	m_email 	VARCHAR(40)  NOT NULL PRIMARY KEY, -- 회원 이메일
+	m_pw   	VARCHAR(50) NULL,     -- 비밀번호
+	m_name  	VARCHAR(50)  NULL,     -- 회원명
+	m_tel   	VARCHAR(30)  NULL,     -- 연락처
+	m_order 	INT       	NULL      -- 주문번호
+);
+
+-- 구매 테이블
+DROP TABLE buylist;
+CREATE TABLE buylist (
+	m_email VARCHAR(40) NULL, -- 회원 이메일
+	p_name  VARCHAR(50) NULL, -- 상품명
+	p_pri   INT     NULL,  -- 상품가격
+	FOREIGN KEY(m_email) REFERENCES member(m_email)
+);
+
+

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="beb1b168-a4be-4d6e-84be-aaf4a68e6d73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iX6qPt1LracE3K5ofIPPkL4VoX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SHOPPING MALL 2020-10-10" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kiccistc\Desktop\pythonProject" />
+      <recent name="C:\Users\kiccistc\Desktop\pythonProject\QUIZE\QUIZE_2020-10-08\SubWIndow" />
+      <recent name="C:\Users\kiccistc\Desktop\pythonProject\QUIZE\QUIZE_2020-10-08" />
+      <recent name="C:\Users\kiccistc\Desktop\pythonProject\QUIZE\QUIZE_2020-10-07" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.복습퀴즈_원본 저장">
+    <configuration name="04-01 GUI[1]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-01 GUI[1].py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12-01 BLOB 업로드, 다운로드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-01 BLOB 업로드, 다운로드.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12-02 칼라 영상처리 Ver 0.3 with Blob DB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-02 칼라 영상처리 Ver 0.3 with Blob DB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="복습퀴즈_원본 저장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QUIZE/QUIZE_2020-10-08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QUIZE/QUIZE_2020-10-08/복습퀴즈_원본 저장.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.복습퀴즈_원본 저장" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.12-02 칼라 영상처리 Ver 0.3 with Blob DB" />
+        <item itemvalue="Python.04-01 GUI[1]" />
+        <item itemvalue="Python.12-01 BLOB 업로드, 다운로드" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beb1b168-a4be-4d6e-84be-aaf4a68e6d73" name="Default Changelist" comment="" />
+      <created>1602166289918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602166289918</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1069" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602159178947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1069" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602159178947" />
+    <state x="1171" y="261" key="FileChooserDialogImpl" timestamp="1602392891033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1171" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602392891033" />
+    <state x="1171" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602141149200" />
+    <state width="1084" height="249" key="GridCell.Tab.0.bottom" timestamp="1602158669574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602158669574" />
+    <state width="1084" height="249" key="GridCell.Tab.0.center" timestamp="1602158669574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="249" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602158669574" />
+    <state width="1084" height="249" key="GridCell.Tab.0.left" timestamp="1602158669574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="249" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602158669574" />
+    <state width="1084" height="249" key="GridCell.Tab.0.right" timestamp="1602158669574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1084" height="249" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602158669574" />
+    <state x="504" y="204" key="SettingsEditor" timestamp="1602042841190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="204" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602042841190" />
+    <state x="1" y="0" width="1007" height="693" key="dock-window-1" timestamp="1602128765466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1" y="0" width="1007" height="693" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1602128765466" />
+    <state x="1145" y="456" width="756" height="536" key="dock-window-2" timestamp="1602142460725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1145" y="456" width="756" height="536" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1602142460725" />
+    <state x="0" y="0" width="1057" height="739" key="dock-window-3" timestamp="1602137628974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1057" height="739" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1602137628974" />
+    <state x="0" y="0" width="1057" height="739" key="dock-window-4" timestamp="1602137628974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1057" height="739" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1602137628974" />
+    <state x="1125" y="172" width="574" height="488" key="dock-window-5" timestamp="1602142141508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1125" y="172" width="574" height="488" key="dock-window-5/0.0.1920.1040@0.0.1920.1040" timestamp="1602142141508" />
+  </component>
+</project>

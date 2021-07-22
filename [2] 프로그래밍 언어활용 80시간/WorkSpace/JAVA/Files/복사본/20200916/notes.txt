@@ -1,0 +1,36 @@
+Class vs Instance(Object)
+클래스와 인스턴스(객체)
+객체지향프로그래밍
+OOP(Object Oriented Programming)
+Class Diagram
+
+\\10.10.14.200\강사공유
+
+MyClass.class
+Test1.class
+=> .jar(zip)
+
+
+java, java design, spring framework, jsp, selvet
+html5, css3, javascript, jquery, react, angular.. => web application
+database(oracle, mysql...),
+database modeling
+
+public
+private 
+protected
+default(x)
+
+public or default class -> 4
+
+Object
+Throwable
+-Exception   - Error
+ -RuntimeException
+
+ * Checked Exception - IOException, SQLException..
+ * Unchecked Exception - ArithmeticException, NullPointerException
+ * Error
+ OutOfMemoryError
+
+ 

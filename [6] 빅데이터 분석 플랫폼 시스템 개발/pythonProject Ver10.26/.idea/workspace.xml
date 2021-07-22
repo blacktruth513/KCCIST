@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="beb1b168-a4be-4d6e-84be-aaf4a68e6d73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iX6qPt1LracE3K5ofIPPkL4VoX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/수업자료" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kccistc\Desktop\pythonProject Ver10.21\PROJECT" />
+      <recent name="C:\Users\kccistc\Desktop\pythonProject Ver10.19\ImagePhotoshopProject\기존 METHOD" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kccistc\OneDrive\바탕 화면\pythonProject Ver10.26\수업자료" />
+      <recent name="C:\Users\kccistc\OneDrive\바탕 화면\pythonProject Ver10.26\images" />
+      <recent name="C:\Users\kccistc\OneDrive\바탕 화면\pythonProject Ver10.26" />
+      <recent name="C:\Users\kccistc\Desktop\pythonProject Ver10.22\ImagePhotoshopProject" />
+      <recent name="C:\Users\kccistc\Desktop\pythonProject Ver10.21\ImagePhotoshopProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.손가락 인식2">
+    <configuration name="차선 인식2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업자료" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업자료/차선 인식2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="손가락 인식2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/손가락 인식2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="차선 인식4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업자료" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업자료/차선 인식4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="손가락 인식" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/손가락 인식.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16-03 칼라 영상처리 ver 0.9 (with DeepLearning)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-03 칼라 영상처리 ver 0.9 (with DeepLearning).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.손가락 인식2" />
+        <item itemvalue="Python.손가락 인식" />
+        <item itemvalue="Python.16-03 칼라 영상처리 ver 0.9 (with DeepLearning)" />
+        <item itemvalue="Python.차선 인식4" />
+        <item itemvalue="Python.차선 인식2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beb1b168-a4be-4d6e-84be-aaf4a68e6d73" name="Default Changelist" comment="" />
+      <created>1602166289918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602166289918</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1069" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603331480318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1069" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603331480318" />
+    <state x="1171" y="261" key="FileChooserDialogImpl" timestamp="1603524361888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1171" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603524361888" />
+    <state x="1171" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603415880356" />
+    <state width="926" height="228" key="GridCell.Tab.0.bottom" timestamp="1603713846579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603535078784" />
+    <state width="1219" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.984@0.0.1920.1040" timestamp="1603095820725" />
+    <state width="926" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603713846579" />
+    <state width="926" height="228" key="GridCell.Tab.0.center" timestamp="1603713846579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603535078784" />
+    <state width="1219" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.984@0.0.1920.1040" timestamp="1603095820725" />
+    <state width="926" height="228" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603713846579" />
+    <state width="926" height="228" key="GridCell.Tab.0.left" timestamp="1603713846579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603535078784" />
+    <state width="1219" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.984@0.0.1920.1040" timestamp="1603095820725" />
+    <state width="926" height="228" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603713846579" />
+    <state width="926" height="228" key="GridCell.Tab.0.right" timestamp="1603713846579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603535078784" />
+    <state width="1219" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.984@0.0.1920.1040" timestamp="1603095820725" />
+    <state width="926" height="228" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603713846579" />
+    <state width="1271" height="320" key="GridCell.Tab.1.bottom" timestamp="1603453081535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603453081535" />
+    <state width="1271" height="320" key="GridCell.Tab.1.center" timestamp="1603453081535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="320" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603453081535" />
+    <state width="1271" height="320" key="GridCell.Tab.1.left" timestamp="1603453081535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="320" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603453081535" />
+    <state width="1271" height="320" key="GridCell.Tab.1.right" timestamp="1603453081535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="320" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603453081535" />
+    <state x="858" y="90" key="SettingsEditor" timestamp="1603524864747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="858" y="90" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603524864747" />
+    <state x="504" y="204" key="SettingsEditor/0.0.1920.1040/1920.0.1366.984@0.0.1920.1040" timestamp="1603085132626" />
+    <state x="858" y="90" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603328658421" />
+    <state x="976" y="83" width="864" height="763" key="dock-window-1" timestamp="1603673862162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1631" y="0" width="1647" height="717" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603533268733" />
+    <state x="101" y="128" width="845" height="713" key="dock-window-1/0.0.1920.1040/1920.0.1366.984@0.0.1920.1040" timestamp="1603077004382" />
+    <state x="976" y="83" width="864" height="763" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1603673862162" />
+    <state x="679" y="185" width="899" height="763" key="dock-window-2" timestamp="1603674638132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2208" y="137" width="865" height="709" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1366.984@0.0.1920.1040" timestamp="1603094642715" />
+    <state x="679" y="185" width="899" height="763" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1603674638132" />
+    <state x="0" y="0" width="899" height="763" key="dock-window-3" timestamp="1603674753113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="856" height="713" key="dock-window-3/0.0.1920.1040/1920.0.1366.984@0.0.1920.1040" timestamp="1603095443911" />
+    <state x="0" y="0" width="899" height="763" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1603674753113" />
+    <state x="398" y="163" width="899" height="763" key="dock-window-4" timestamp="1603679653505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="398" y="163" width="899" height="763" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1603679653505" />
+    <state x="0" y="0" width="884" height="1001" key="dock-window-5" timestamp="1603699183775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="884" height="1001" key="dock-window-5/0.0.1920.1040@0.0.1920.1040" timestamp="1603699183775" />
+    <state x="1046" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1603690782441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1046" y="229" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603533956289" />
+    <state x="1046" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1366.984@0.0.1920.1040" timestamp="1603092532272" />
+    <state x="1046" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603690782441" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ImagePhotoshopProject/ImageManagement[Ver 03].py</url>
+          <line>779</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ImagePhotoshopProject/ImageManagement[Ver 03].py</url>
+          <line>785</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ImagePhotoshopProject/ImageManagement[Ver 03].py</url>
+          <line>765</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
